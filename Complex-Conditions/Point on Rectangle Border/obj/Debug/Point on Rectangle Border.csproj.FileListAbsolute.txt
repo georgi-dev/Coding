@@ -1,0 +1,5 @@
+c:\users\ogromniq87\documents\visual studio 2015\Projects\Complex-Conditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe.config
+c:\users\ogromniq87\documents\visual studio 2015\Projects\Complex-Conditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe
+c:\users\ogromniq87\documents\visual studio 2015\Projects\Complex-Conditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.pdb
+c:\users\ogromniq87\documents\visual studio 2015\Projects\Complex-Conditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.exe
+c:\users\ogromniq87\documents\visual studio 2015\Projects\Complex-Conditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.pdb
